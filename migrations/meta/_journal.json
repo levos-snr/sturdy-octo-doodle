@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1704711257811,
+      "tag": "0000_silky_screwball",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1704713161398,
+      "tag": "0001_fuzzy_famine",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1704717468475,
+      "tag": "0002_eager_ravenous",
+      "breakpoints": true
+    }
+  ]
+}
