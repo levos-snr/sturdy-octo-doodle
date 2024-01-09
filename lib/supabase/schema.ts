@@ -13,7 +13,7 @@ import {
   products,
   subscriptionStatus,
   users,
-} from '../../../migrations/schema';
+} from '../../migrations/schema';
 
 export const workspaces = pgTable('workspaces', {
   id: uuid('id').defaultRandom().primaryKey().notNull(),
