@@ -78,7 +78,7 @@ const Header = () => {
         className="w-full flex gap-2
         justify-left items-center"
       >
-        <Image src={Logo} alt="Cypress Logo" width={25} height={25} />
+        <Image src={Logo} alt="Future Logo" width={25} height={25} />
         <span
           className="font-semibold
           dark:text-white
